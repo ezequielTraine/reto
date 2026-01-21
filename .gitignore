@@ -1,0 +1,4 @@
+# Para no mandar a llamar los archivos incesesarios
+*.env
+*poetry.lock
+*pyproject.toml
